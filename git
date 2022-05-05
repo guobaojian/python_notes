@@ -3,10 +3,11 @@
 git init
 git add -A
 git commit -m 'Added my project'
-git remote add origin https://github.com/guobaojian/python_notes.git
+#git remote remove origin
+#git remote add origin https://github.com/guobaojian/python_notes.git
 git push -u -f origin master
 
 user name_ guobaojian
 password: Jian3hui
 Personal Token:
-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
+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
